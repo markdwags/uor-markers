@@ -24,7 +24,7 @@
 1937,2711,0,Barracks,point,yellow
 1938,2688,0,Barracks,point,yellow
 2122,2755,0,Barrier Isle,Island,yellow
-571,2119,0,Beasts of Burden,stable,yellow
+571,2119,0,Beasts of Burden,stables,yellow
 5542,2999,0,Beggars Gorge,Terrain,yellow
 1431,1612,0,The Best Hides of Britain,tanner,yellow
 3007,3408,0,Blacksmith,blacksmith,yellow
@@ -35,7 +35,7 @@
 3683,2171,0,The Bread Basket,baker,yellow
 1789,2923,0,bridge,bridge,yellow
 1778,2848,0,bridge,bridge,yellow
-1546,1634,0,Britain,town,yellow
+1546,1634,0,Britain,town,yellow,1
 1371,1482,0,Britain Cemetery,graveyard,yellow
 1470,1765,0,Britain Docks,docks,yellow
 1336,1997,0,Britain Moongate,moongate,yellow
@@ -52,10 +52,10 @@
 1362,3700,0,Brothers In Arms,weapons,yellow
 2892,654,0,The Bubbling Brew,mage,yellow
 2667,2087,0,Buccaneer's Bath,point,yellow
-2720,2110,0,Buccaneer's Den,town,yellow
+2720,2110,0,Buccaneer's Den,town,yellow,1
 2752,2155,0,Buccaneer's Den Docks,docks,yellow
 2707,2178,0,Buccaneer's Den Leatherworks,tanner,yellow
-1510,1543,0,The Bucking Horse Stables,stable,yellow
+1510,1543,0,The Bucking Horse Stables,stables,yellow
 628,2160,0,Builder's Delight,carpenter,yellow
 5310,34,0,bunkhouse,inn,yellow
 2957,705,0,The Busy Bees,beekeeper,yellow
@@ -91,9 +91,12 @@
 1893,2838,0,Counselor's Guild,guild,yellow
 1628,1664,0,Counselor's Guild,guild,yellow
 370,899,0,Court of Truth,landmark,yellow
-2263,1237,0,Cove,town,yellow
+2260,1206,0,Cove,town,yellow,1
+2343,1259,0,Cove Moongate,moongate,yellow
+2229,1200,0,Cove Bank,bank,yellow
 2256,1181,0,Cove Dock,docks,yellow
-2499,916,0,Covetous,dungeon,yellow
+2260,1231,0,Cove Stables,stables,yellow
+2499,916,0,Covetous,dungeon,yellow,1
 5456,1863,0,Covetous,exit,yellow
 1476,1745,0,Customs,customs,yellow
 2637,2075,0,Cutlass Smithing,blacksmith,yellow
@@ -102,15 +105,15 @@
 5265,3270,0,Damwin Thicket,Terrain,yellow
 1359,3763,0,Deadly Intentions,arms,yellow
 3715,1383,0,Debtor's Prison,point,yellow
-4111,429,0,Deceit,dungeon,yellow
+4111,429,0,Deceit,dungeon,yellow,1
 5188,638,0,Deceit,exit,yellow
 647,1087,0,Deep Forest Healing,healer,yellow
-5227,3978,0,Delucia,town,yellow
-5297,4007,0,Delucia Stable,stable,yellow
+5227,3978,0,Delucia,town,yellow,1
+5297,4007,0,Delucia Stable,stables,yellow
 5234,4025,0,Delucia Tailor,tailor,yellow
-1296,1082,0,Despise,dungeon,yellow
+1296,1082,0,Despise,dungeon,yellow,1
 5588,632,0,Despise,exit,yellow
-1176,2635,0,Destard,dungeon,yellow
+1176,2635,0,Destard,dungeon,yellow,1
 5244,1007,0,Destard,exit,yellow
 2972,3425,0,The Dog and Lion Pub,tavern,yellow
 1397,3744,0,The Dueling Pit,point,yellow
@@ -132,15 +135,15 @@
 2216,1192,0,The Farmer's Market,provisioner,yellow
 4395,1137,0,The Fatted Calf,butcher,yellow
 1457,4028,0,Finest Cuts,butcher,yellow
-2922,3402,0,Fire,dungeon,yellow
-5757,2909,0,Fire,dungeon,yellow
+2922,3402,0,Fire,dungeon,yellow,1
+5757,2909,0,Fire,dungeon,yellow,1
 5687,1424,0,Fire (B),exit,yellow
 5792,1415,0,Fire (LL),exit,yellow
 1425,1690,0,The First Bank of Britain,bank,yellow
 4471,1156,0,First Bank of Moonglow and Tinker's Guild,bank,yellow
 1395,3705,0,First Defense,blacksmith,yellow
 1494,1715,0,The First Library of Britain,library,yellow
-2010,2807,0,First Trinsic Stablery,stable,yellow
+2010,2807,0,First Trinsic Stablery,stables,yellow
 3012,3457,0,Fisherman's Brew,tavern,yellow
 2963,813,0,The Fisherman's Guild,fishermans,yellow
 3685,2256,0,Fisherman's Guild and Supplies,fishermans,yellow
@@ -188,10 +191,10 @@
 1452,3770,0,The Horse's Head,tavern,yellow
 4274,3697,0,Humility,shrine,yellow
 5296,3978,0,Hut of Magics,mage,yellow
-4722,3814,0,Hythloth,dungeon,yellow
+4722,3814,0,Hythloth,dungeon,yellow,1
 5904,16,0,Hythloth,exit,yellow
-5203,2328,0,Ice,dungeon,yellow
-1996,80,0,Ice,dungeon,yellow
+5203,2328,0,Ice,dungeon,yellow,1
+1996,80,0,Ice,dungeon,yellow,1
 5882,243,0,Ice (B),exit,yellow
 5875,147,0,Ice (LL),exit,yellow
 1590,1654,0,Incantations & Enchantments,mage,yellow
@@ -202,7 +205,7 @@
 1855,2769,0,Jail,point,yellow
 5291,1169,0,jail,landmark,yellow
 3778,1172,0,Jewel of the Isle,jeweler,yellow
-1359,3671,0,Jhelom,town,yellow
+1359,3671,0,Jhelom,town,yellow,1
 1456,3850,0,Jhelom Armory,arms,yellow
 1317,3773,0,Jhelom Bank and Jeweler,bank,yellow
 1283,3731,0,Jhelom Cemetery,graveyard,yellow
@@ -240,7 +243,7 @@
 2918,672,0,The Magical Light,mage,yellow
 5215,117,0,Magical Supplies,reagents,yellow
 2992,844,0,The Magician's Friend,reagents,yellow
-3735,2200,0,Magincia,town,yellow
+3735,2200,0,Magincia,town,yellow,1
 3674,2293,0,Magincia Docks,docks,yellow
 3665,2140,0,Magincia Miner's Guild,miners,yellow
 3564,2140,0,Magincia Moongate,moongate,yellow
@@ -257,11 +260,11 @@
 4392,1117,0,The Mighty Axe,arms,yellow
 1417,1578,0,The Miner's Guild,miners,yellow
 2590,532,0,Mining Camp,landmark,yellow
-2502,522,0,Minoc,town,yellow
+2502,522,0,Minoc,town,yellow,1
 2702,692,0,Minoc Moongate,moongate,yellow
 2429,528,0,Minoc Town Hall,point,yellow
 2881,684,0,The Mint of Vesper,bank,yellow
-4457,1117,0,Moonglow,town,yellow
+4457,1117,0,Moonglow,town,yellow,1
 4541,1319,0,Moonglow Cemetery,graveyard,yellow
 4406,1038,0,Moonglow Docks,docks,yellow
 4392,1089,0,Moonglow Healer,healer,yellow
@@ -282,7 +285,7 @@
 2452,79,0,The North Mines,scenic,yellow
 1458,1525,0,The North Side Inn,inn,yellow
 1550,1529,0,The Northern Bridge,bridge,yellow
-3600,1231,0,Nujel'm,town,yellow
+3600,1231,0,Nujel'm,town,yellow,1
 3546,1185,0,Nujel'm Blacksmith,blacksmith,yellow
 3546,1194,0,Nujel'm Bowry,fletcher,yellow
 3555,1171,0,Nujel'm Butcher,butcher,yellow
@@ -298,24 +301,24 @@
 2453,425,0,The Old Miners' Supplies,provisioner,yellow
 630,2194,0,On Guard Armoury,blacksmith,yellow
 5765,2618,0,Ophidian Lair,ruins,yellow
-1014,1434,0,Orc Cave,dungeon,yellow
+1014,1434,0,Orc Cave,dungeon,yellow,1
 632,1484,0,Orc Fort,ruins,yellow
 2176,1372,0,Orc Fort,ruins,yellow
 5211,3611,0,Orc Fort,ruins,yellow
 2855,734,0,The Ore of Vesper,miners,yellow
 2003,2726,0,Paladin's Library,library,yellow
-5751,3231,0,Papua,town,yellow
+5751,3231,0,Papua,town,yellow,1
 5839,3256,0,Papua dock,docks,yellow
 5754,3273,0,Papua Tailor,tailor,yellow
 1893,2763,0,park,point,yellow
 5251,58,0,park,point,yellow
-6075,3330,0,passage to Britain,dungeon,yellow
-1628,3318,0,passage to Delucia,dungeon,yellow
+6075,3330,0,passage to Britain,dungeon,yellow,1
+1628,3318,0,passage to Delucia,dungeon,yellow,1
 2775,893,0,passage to Lost Cemetery,landmark,yellow
 2404,218,0,passage to Lost Lands,landmark,yellow
 6084,3674,0,passage to North Mines,landmark,yellow
-5150,4063,0,passage to Trinsic,dungeon,yellow
-5138,3665,0,passage to Trinsic,dungeon,yellow
+5150,4063,0,passage to Trinsic,dungeon,yellow,1
+5138,3665,0,passage to Trinsic,dungeon,yellow,1
 1447,3981,0,The Pearl of Jhelom,jeweler,yellow
 1895,2809,0,The Pearl of Trinsic,jeweler,yellow
 2715,2098,0,The Peg Leg Inn,inn,yellow
@@ -367,17 +370,18 @@
 5266,2757,0,Serpent Pillar (sueacron),landmark,yellow
 3031,3350,0,Serpent Warriors,warriors,yellow
 3018,3433,0,Serpent's Arms,arms,yellow
-3025,3498,0,Serpent's Hold,town,yellow
+3025,3498,0,Serpent's Hold,town,yellow,1
 2880,3472,0,Serpent's Hold Bank,bank,yellow
 2997,3428,0,Serpent's Hold Healer,healer,yellow
-3036,3464,0,Serpent's Hold Stablery,stable,yellow
+3036,3464,0,Serpent's Hold Stablery,stables,yellow
 3002,3350,0,Serpent's Spells,mage,yellow
-5470,3515,0,Serpents Cousins,Terrain,yellow
-2905,3517,0,Serpents Hold Stablery,stable,yellow
-1492,1641,0,sewer entrance,dungeon,yellow
+5470,3515,0,Serpent's Cousins,Terrain,yellow
+2905,3517,0,Serpent's Hold Stablery,stables,yellow
+2983,3551,0,Serpent's Hold Moongate,moongate,yellow
+1492,1641,0,sewer entrance,dungeon,yellow,1
 5902,3106,0,Shallow Sea,Body,yellow
 5396,129,0,Shame,exit,yellow
-512,1559,0,Shame,dungeon,yellow
+512,1559,0,Shame,dungeon,yellow,1
 554,2178,0,The Shattered Skull,inn,yellow
 650,2180,0,Shear Pleasure,tailor,yellow
 2882,723,0,The Shimmering Jewel,jeweler,yellow
@@ -385,7 +389,7 @@
 3736,1255,0,The Silver Bow,tavern,yellow
 3054,3369,0,Silver Serpent Bows,bowyer,yellow
 2881,3503,0,Silver Serpent Tailors,tailor,yellow
-595,2263,0,Skara Brae,town,yellow
+595,2263,0,Skara Brae,town,yellow,1
 656,2235,0,Skara Brae Docks,docks,yellow
 645,2068,0,Skara Brae Moongate,moongate,yellow
 565,2213,0,Skara Brae Town Hall,point,yellow
@@ -394,16 +398,16 @@
 2026,2845,0,Sons Of The Sea,shipwright,yellow
 1485,1550,0,The Sorcerer's Delight,mage,yellow
 4684,1412,0,The Sorcerer's Guild,sorcerersguild,yellow
-1296,1759,0,Sosarian Steeds,stable,yellow
+1296,1759,0,Sosarian Steeds,stables,yellow
 3001,3466,0,South Dock,docks,yellow
 2003,2921,0,South Gate,gate,yellow
 5700,3279,0,The Southside Butchery,butcher,yellow
-5671,3287,0,Southside Stables,stable,yellow
+5671,3287,0,Southside Stables,stables,yellow
 2961,621,0,The Spinning Wheel,tailor,yellow
 2840,885,0,The Spinning Wheel,tailor,yellow
 1595,2490,0,Spirituality,shrine,yellow
-2526,375,0,Stables,stable,yellow
-1385,1658,0,The Stables,stable,yellow
+2526,375,0,Stables,stables,yellow
+1385,1658,0,The Stables,stables,yellow
 3695,2160,0,The Stag and Lion,inn,yellow
 2465,522,0,statues,point,yellow
 3666,2235,0,Stitchin' Time,tailor,yellow
@@ -423,7 +427,7 @@
 4442,1122,0,teleporter park,teleporter,yellow
 1414,3829,0,teleporters,teleporter,yellow
 4708,1116,0,Telescope,scenic,yellow
-5426,3120,0,Terathan Keep,dungeon,yellow
+5426,3120,0,Terathan Keep,dungeon,yellow,1
 5340,1599,0,Terathan Keep,exit,yellow
 6028,2933,0,Terra Sanctum,Terrain,yellow
 3720,2126,0,The Tic-Toc Shop,tinker,yellow
@@ -448,7 +452,7 @@
 1256,865,0,Training Tower,landmark,yellow
 1844,2735,0,The Traveler's Inn,inn,yellow
 5731,3183,0,Tricks of the Trade,mage,yellow
-1879,2766,0,Trinsic,town,yellow
+1879,2766,0,Trinsic,town,yellow,1
 1991,2887,0,The Trinsic Cut,butcher,yellow
 2072,2856,0,Trinsic Docks,docks,yellow
 1991,2867,0,Trinsic Fine Skins,tanner,yellow
@@ -456,12 +460,12 @@
 1895,2719,0,Trinsic Meeting Hall,point,yellow
 1829,2949,0,Trinsic Moongate,moongate,yellow
 1897,2684,0,Trinsic Royal Bank,bank,yellow
-1822,2739,0,Trinsic Stablery,stable,yellow
+1822,2739,0,Trinsic Stablery,stables,yellow
 2019,2748,0,Trinsic Training Hall,warriors,yellow
 2998,760,0,The Twisted Oven,baker,yellow
 1547,1768,0,The Unicorn's Horn,tavern,yellow
 2491,3933,0,Valor,shrine,yellow
-2884,839,0,Vesper,town,yellow
+2884,839,0,Vesper,town,yellow,1
 2753,867,0,Vesper Cemetery,graveyard,yellow
 2944,934,0,Vesper Customs,customs,yellow
 3034,827,0,Vesper Docks,docks,yellow
@@ -484,20 +488,20 @@
 1712,3005,0,waterfall,scenic,yellow
 1585,1591,0,The Wayfarer's Inn,inn,yellow
 1831,2779,0,West Trinsic Gate,gate,yellow
-1361,890,0,Wind,dungeon,yellow
-5252,104,0,Wind,town,yellow
+1361,890,0,Wind,dungeon,yellow,1
+5252,104,0,Wind,town,yellow,1
 5148,60,0,Wind Alchemy,mage,yellow
 5346,74,0,Wind Bank,bank,yellow
 5263,129,0,Wind Healer,healer,yellow
 5203,86,0,Windy Clothes,tailor,yellow
 5218,175,0,Windy Inn,inn,yellow
-2042,226,0,Wrong,dungeon,yellow
+2042,226,0,Wrong,dungeon,yellow,1
 5825,632,0,Wrong,exit,yellow
 5604,2742,0,Y'Nah Teb,Terrain,yellow
 5275,3977,0,Ye Olde Eleventh Bank,bank,yellow
 5669,3131,0,Ye Olde Loan and Savings,bank,yellow
 618,886,0,Ye Olde Winery,point,yellow
-504,942,0,Yew,town,yellow
+504,942,0,Yew,town,yellow,1
 722,1117,0,Yew Cemetery,graveyard,yellow
 553,826,0,Yew Mill,point,yellow
 771,754,0,Yew Moongate,moongate,yellow
@@ -517,21 +521,23 @@
 3636,2565,0,Last Chance Provisioners,provisioner,yellow
 5778,3376,0,Minax's Fortress,Minax's,yellow
 3610,2577,0,Now You're Cookin',baker,yellow
-3664,2558,0,Ocllo,town,yellow
+3664,2558,0,Ocllo,town,yellow,1
 3647,2681,0,Ocllo Docks,docks,yellow
 3612,2466,0,Ocllo Public Library,library,yellow
 3607,2525,0,Ocllo Stables,stables,yellow
-3667,2463,0,Ocllo Caverns/Sewers,dungeon,yellow
-3604,2492,0,Ocllo Sewers,dungeon,yellow
+3667,2463,0,Ocllo Caverns/Sewers,dungeon,yellow,1
+3604,2492,0,Ocllo Sewers,dungeon,yellow,1
 3717,2463,0,Ocllo Miners Guild,miners,yellow
 3499,2483,0,Ocllo Orc Fort,ruins,yellow
 3358,2676,0,Ocllo Pirate Fort,thieves,yellow
 3524,2860,0,Ocllo Mage Tower,mage,yellow
-3528,2884,0,Ocllo Mage Dungeon,dungeon,yellow
+3528,2884,0,Ocllo Mage Dungeon,dungeon,yellow,1
 3683,2556,0,Ocllo Woodworker,carpenter,yellow
 3706,2637,0,Ocllo Bowyers,bowyer,yellow
-3747,2683,0,Ocllo Cavern,dungeon,yellow
-3351,2695,0,Ocllo Cavern,dungeon,yellow
+3747,2683,0,Ocllo Cavern,dungeon,yellow,1
+3351,2695,0,Ocllo Cavern,dungeon,yellow,1
+3724,2500,0,Ocllo Moongate,moongate,yellow
+3498,2791,0,bridge,bridge,yellow
 3739,2596,0,Cotton Fields,interest,yellow
 3638,2499,0,Paint and More,painter,yellow
 3717,1228,0,Seaborne Ships,customs,yellow
@@ -560,7 +566,7 @@
 3633,2597,1,Garden with Waterfall,point,yellow
 3649,2859,1,Graveyard,graveyard,yellow
 3404,2653,1,graveyard,graveyard,yellow
-3664,2558,1,Haven,town,yellow
+3664,2558,1,Haven,town,yellow,1
 3645,2617,1,The Haven Blacksmith,blacksmith,yellow
 3667,2506,1,Haven Clockworks and Tinker Shop,tinker,yellow
 3655,2665,1,Haven Docks,docks,yellow
