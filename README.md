@@ -18,7 +18,7 @@ If you just want to download the map icons, [click here](https://raw.githubuserc
 
 Creating your own marker file is simple. Create an empty file and enter it using this format:
 
-`x,y,mapindex,name of marker,iconname,color`
+`x,y,mapindex,name of marker,iconname,color,zoom level`
 
 The `iconname` must match the name of the image in the `Data\Client\MapIcons` folder. If no icon exists, it will display a simple dot using the color defined.
 
