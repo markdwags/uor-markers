@@ -22,6 +22,8 @@ Creating your own marker file is simple. Create an empty file and enter it using
 
 The `iconname` must match the name of the image in the `Data\Client\MapIcons` folder. If no icon exists, it will display a simple dot using the color defined.
 
+`zoom level` defines when the icon will show/hide when zooming.  `0 = furthest` and `9 = closest` so if you had a marker zoom level set to 1 (for example dungeon entrances), it will show at any zoom level except if you're all the way out (at 0). Default level is 3.
+
 ## Help
 
 Need more help? Check out the [ClassicUO Wiki Page](https://github.com/andreakarasho/ClassicUO/wiki/World-Map).
